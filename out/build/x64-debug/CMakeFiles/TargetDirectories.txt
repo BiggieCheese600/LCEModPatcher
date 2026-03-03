@@ -1,0 +1,5 @@
+B:/Godot & Github/GitHub/LCEModPatcherSolution/out/build/x64-debug/CMakeFiles/edit_cache.dir
+B:/Godot & Github/GitHub/LCEModPatcherSolution/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+B:/Godot & Github/GitHub/LCEModPatcherSolution/out/build/x64-debug/LCEModPatcher/CMakeFiles/LCEModPatcher.dir
+B:/Godot & Github/GitHub/LCEModPatcherSolution/out/build/x64-debug/LCEModPatcher/CMakeFiles/edit_cache.dir
+B:/Godot & Github/GitHub/LCEModPatcherSolution/out/build/x64-debug/LCEModPatcher/CMakeFiles/rebuild_cache.dir
